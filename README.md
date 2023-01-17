@@ -8,22 +8,22 @@ I'm a student at Codam College (part of the 42 Network) with a strong interest i
 
 
 Born2beRoot Project Description: This project aims to introduce Codam students to the wonderful world of virtualization.
-Born2beRoot PDF w/ Requirements: https://cdn.intra.42.fr/pdf/pdf/68785/en.subject.pdf
+Born2beRoot PDF: https://cdn.intra.42.fr/pdf/pdf/68785/en.subject.pdf
 Born2beRoot Project Score: 
 [![ysrondy's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2924236)](https://github.com/JaeSeoKim/badge42)
 
 
 ft_printf Project Description: This project is pretty straightforward, I had to recode printf. I learnt what are & how to implement variadic functions.
-ft_printf PDF w/ Requirements: https://cdn.intra.42.fr/pdf/pdf/68788/en.subject.pdf
+ft_printf PDF: https://cdn.intra.42.fr/pdf/pdf/68788/en.subject.pdf
 ft_printf Project Score: 
 [![ysrondy's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2918169)](https://github.com/JaeSeoKim/badge42)
 
 get_next_line Project Description: May it be a file, stdin, or even later a network connection, I will always need a way to read content line by line. I created this function in this project, which will be essential for my future projects.
-get_next_line PDF w/ Requirements: https://cdn.intra.42.fr/pdf/pdf/68786/en.subject.pdf
+get_next_line PDFs: https://cdn.intra.42.fr/pdf/pdf/68786/en.subject.pdf
 get_next_line Project Score: 
 [![ysrondy's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2911927)](https://github.com/JaeSeoKim/badge42)
 
 Libft Project Description: This project was my very first project as a student at 42. I needed to recode 40+ functions of the C standard library as well as other utility functions that i will use during my whole cursus.
-Libft PDF w/ Requirements: https://cdn.intra.42.fr/pdf/pdf/68763/en.subject.pdf
+Libft PDFs: https://cdn.intra.42.fr/pdf/pdf/68763/en.subject.pdf
 Libft Project Score: 
 [![ysrondy's 42 Libft Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2818235)](https://github.com/JaeSeoKim/badge42)
