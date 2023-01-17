@@ -1,7 +1,7 @@
 # Welcome to my secret coding dungeon! 👋 🏰
 ## I'm Youssef, a student at Codam College (part of the 42 Network) with a strong interest in blockchain, DeFi and crypto start-ups. 
 ### LinkedIn: https://www.linkedin.com/in/youssefsrondy/
-### 👇 Check out my stats 👇
+### 👇 Check out my stats & projects completed 👇
 [![ysrondy's 42 stats](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/stats?cursusId=21&coalitionId=59)](https://github.com/JaeSeoKim/badge42)
 
 ## Born2beRoot
