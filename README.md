@@ -11,7 +11,8 @@
 Born2beRoot Project Score: [![ysrondy's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2924236)](https://github.com/JaeSeoKim/badge42)
 
 ## ft_printf
-> ft_printf Project Description: This project is pretty straightforward, I had to recode printf. I learnt what are & how to implement variadic functions.  > ft_printf PDF: https://cdn.intra.42.fr/pdf/pdf/68788/en.subject.pdf.  
+> ft_printf Project Description: This project is pretty straightforward, I had to recode printf. I learnt what are & how to implement variadic functions. 
+> ft_printf PDF: https://cdn.intra.42.fr/pdf/pdf/68788/en.subject.pdf.  
 
 ft_printf Project Score: [![ysrondy's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2918169)](https://github.com/JaeSeoKim/badge42)
 
