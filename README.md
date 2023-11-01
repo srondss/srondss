@@ -1,30 +1,27 @@
-# Welcome to my secret coding dungeon! 👋 🏰
-## I'm Youssef, a student at Codam College (part of the 42 Network) with a strong interest in blockchain, DeFi and crypto start-ups. 
-### LinkedIn: https://www.linkedin.com/in/youssefsrondy/
-### 👇 Check out my stats & projects completed 👇
-[![ysrondy's 42 stats](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/stats?cursusId=21&coalitionId=59)](https://github.com/JaeSeoKim/badge42)
+# Hey there, I'm Youssef Srondy 👋
 
-## Born2beRoot
-> Born2beRoot Project Description: This project aims to introduce Codam students to the wonderful world of virtualization.  
-> Born2beRoot PDF: https://cdn.intra.42.fr/pdf/pdf/68785/en.subject.pdf.  
+🚀 Director at MELD | 💼 Business Grad | 👨‍💻 Software Engineer | 🔗 Crypto Enthusiast
 
-Born2beRoot Project Score: [![ysrondy's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2924236)](https://github.com/JaeSeoKim/badge42)
+Welcome to my GitHub world! I'm Youssef Srondy, a young and dynamic entrepreneur with a strong business background and a passion for software engineering. I'm thrilled to be part of MELD, where we're crafting the future of decentralized finance with crypto and Web3 technologies.
 
-## ft_printf
-> ft_printf Project Description: This project is pretty straightforward, I had to recode printf. I learnt what are & how to implement variadic functions.  
-> ft_printf PDF: https://cdn.intra.42.fr/pdf/pdf/68788/en.subject.pdf.  
+## About Me
 
-ft_printf Project Score: [![ysrondy's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2918169)](https://github.com/JaeSeoKim/badge42)
+- 🎓 Aspiring polymath with a business degree currently switching it up and studying computer science. 
+- 💼 Director at MELD, shaping the future of crypto and DeFi.
+- 🌐 Polyglot: French, Dutch, English, Spanish, Arabic, Python, Solidity, Javascript, Typescript, C/C++.
+- 🔥 A 23-year-old tech enthusiast who lives and breathes innovation.
 
-## get_next_line
-> get_next_line Project Description: May it be a file, stdin, or even later a network connection, I will always need a way to read content line by line. I created this function in this project, which will be essential for my future projects.  
-> get_next_line PDFs: https://cdn.intra.42.fr/pdf/pdf/68786/en.subject.pdf.  
+## My Adventures
 
-get_next_line Project Score: [![ysrondy's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2911927)](https://github.com/JaeSeoKim/badge42). 
+- 🌐 **MELD**: Specila Projects Director and leading the charge to redefine finance by building cutting-edge DeFi solutions.
 
-## Libft
-> Libft Project Description: This project was my very first project as a student at 42. I needed to recode 40+ functions of the C standard library as well as other utility functions that i will use during my whole cursus.  
-> Libft PDFs: https://cdn.intra.42.fr/pdf/pdf/68763/en.subject.pdf.  
+- 🥷 **STEALTH MODE**: Check back again in a bit, you might be surprised... 
 
-Libft Project Score: [![ysrondy's 42 Libft Score](https://badge42.vercel.app/api/v2/clczyhto300780fl9cmbnhwgi/project/2818235)](https://github.com/JaeSeoKim/badge42). 
+## Contact
+
+Don't be shy, drop me a message or connect through these channels:
+
+- 📧 Email: [youssef.srondy@email.com](mailto:srondyyoussef@gmail.com)
+- 💬 Twitter: [@YoussefSrondy](https://twitter.com/Sronds)
+- 💼 LinkedIn: [Youssef Srondy](https://www.linkedin.com/in/youssefsrondy)
 
