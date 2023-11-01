@@ -21,7 +21,7 @@ Welcome to my GitHub world! I'm Youssef Srondy, a young and dynamic entrepreneur
 
 Don't be shy, drop me a message or connect through these channels:
 
-- 📧 Email: [youssef.srondy@email.com](mailto:srondyyoussef@gmail.com)
-- 💬 Twitter: [@YoussefSrondy](https://twitter.com/Sronds)
+- 📧 Email: [srondyyoussef@gmail.com](mailto:srondyyoussef@gmail.com)
+- 💬 Twitter: [@Sronds](https://twitter.com/Sronds)
 - 💼 LinkedIn: [Youssef Srondy](https://www.linkedin.com/in/youssefsrondy)
 
