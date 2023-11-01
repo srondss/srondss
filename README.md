@@ -13,8 +13,8 @@ Welcome to my GitHub world! I'm Youssef Srondy, a young and dynamic entrepreneur
 
 ## My Adventures
 
-- 🌐 **MELD**: Specila Projects Director and leading the charge to redefine finance by building cutting-edge DeFi solutions.
-
+- 🏦 **[MELD](https://meld.com)**: Special Projects Director and leading the charge to redefine finance by melding cutting-edge DeFi solutions with TradFi.
+- 👨‍🎓 **[CODAM](https://codam.nl)**: Peer-to-Peer Coding School: no teachers, no lectures, fully hands-on. 
 - 🥷 **STEALTH MODE**: Check back again in a bit, you might be surprised... 
 
 ## Contact
