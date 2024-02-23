@@ -7,7 +7,7 @@ I'm thrilled to be part of MELD, where we're crafting the future of decentralize
 
 ## About Me
 
-- 🎓 Aspiring polymath with a business degree currently switching it up and studying computer science. 
+- 🎓 Aspiring polymath with a business degree who switched it up and is now working full-time coding/building MELD. 
 - 💼 Director at MELD, shaping the future of crypto and DeFi.
 - 🌐 Polyglot: French, Dutch, English, Spanish, Arabic, Python, Solidity, Javascript, Typescript, C/C++.
 - 🔥 A 20-something year old tech enthusiast who lives and breathes innovation.
@@ -15,7 +15,7 @@ I'm thrilled to be part of MELD, where we're crafting the future of decentralize
 ## My Adventures
 
 - 🏦 **[MELD](https://meld.com)**: Special Projects Director and leading the charge to redefine finance by melding cutting-edge DeFi solutions with TradFi.
-- 👨‍🎓 **[CODAM](https://codam.nl)**: Peer-to-Peer Coding School: no teachers, no lectures, fully hands-on. 
+- 👨‍🎓 **[CODAM](https://codam.nl)**: Peer-to-Peer Coding School: no teachers, no lectures, fully hands-on.
 - 🥷 **STEALTH MODE**: Check back again in a bit, you might be surprised... 
 
 ## Contact
