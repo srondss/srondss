@@ -1,6 +1,6 @@
 # Hey there, I'm Youssef Srondy 👋
 
-🚀 Director at MELD | 💼 Business Grad | 👨‍💻 Software Engineer | 🔗 Crypto Enthusiast
+🚀 Director @ MELD | 👨‍💻 Software Engineer 
 
 Welcome to my GitHub world! I'm Youssef Srondy, a young and dynamic entrepreneur with a strong business background and a passion for software engineering. 
 I'm thrilled to be part of MELD, where we're crafting the future of decentralized finance with crypto and Web3 technologies.
