@@ -1,21 +1,19 @@
 # Hey there, I'm Youssef Srondy 👋
 
-🚀 Director @ MELD | 👨‍💻 Software Engineer 
+🚀 Tech Builder | 👨‍💻 Software Engineer 
 
 Welcome to my GitHub world! I'm Youssef Srondy, a young and dynamic entrepreneur with a strong business background and a passion for software engineering. 
-I'm thrilled to be part of MELD, where we're crafting the future of decentralized finance with crypto and Web3 technologies.
 
 ## About Me
 
-- 🎓 Aspiring polymath with a business degree who switched it up and is now working full-time coding/building MELD. 
-- 💼 Director at MELD, shaping the future of crypto and DeFi.
+- 🎓 Aspiring polymath with a business degree who switched it up and is now full-time pursuing my entrepreneurial ambitions. 
 - 🌐 Polyglot: French, Dutch, English, Spanish, Arabic, Python, Solidity, Javascript, Typescript, C/C++.
 - 🔥 A 20-something year old tech enthusiast who lives and breathes innovation.
 
-## My Adventures
+## My Projects
 
-- 🏦 **[MELD](https://meld.com)**: Special Projects Director and leading the charge to redefine finance by melding cutting-edge DeFi solutions with TradFi.
-- 👨‍🎓 **[CODAM](https://codam.nl)**: Peer-to-Peer Coding School: no teachers, no lectures, fully hands-on.
+- 🏦 **[Moolty](https://moolty.xyz)**: Moolty is an omnichain multisig wallet initially developed for the MELD Blockchain. It allows users to manage their assets across multiple chains in a single interface.
+- 👨‍🎓 **[PaperTalks](https://papertalks.pro)**: PaperTalks is a platform where users can upload their research papers and create an AI generated podcast from the text.
 - 🥷 **STEALTH MODE**: Check back again in a bit, you might be surprised... 
 
 ## Contact
