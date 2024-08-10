@@ -6,7 +6,7 @@ Welcome to my GitHub world! I'm Youssef Srondy, a young and dynamic entrepreneur
 
 ## About Me
 
-- 🎓 Aspiring polymath with a business degree who switched it up and is now full-time pursuing my entrepreneurial ambitions. 
+- 🎓 Aspiring polymath with a business & compsci background now pursuing my entrepreneurial ambitions full-time. 
 - 🌐 Polyglot: French, Dutch, English, Spanish, Arabic, Python, Solidity, Javascript, Typescript, C/C++.
 - 🔥 A 20-something year old tech enthusiast who lives and breathes innovation.
 
